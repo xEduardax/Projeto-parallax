@@ -1,5 +1,4 @@
-# Projeto-parallax
- Projeto parallax
+# <h1>Projeto Parallax</h1>
  
  <img height="900px" width="900px" src="picture-readme.png"/>
 
